@@ -12,3 +12,5 @@ C:\Users\"Bilgisayar Adı"\AppData\Roaming\.minecraft\saves\FlooNetwork
 - Dosyaları bu klasöre çıkarın.
 ## Copyright
 The translation is created with respect to the original creators of the game mod. All rights belong to their respective owners. The translation is shared for personal and non-commercial use only.
+![Ekran görüntüsü 2024-12-18 005537](https://github.com/user-attachments/assets/e5514ea2-b99f-435f-a233-809aadfae18c)
+![Ekran görüntüsü 2024-12-18 005509](https://github.com/user-attachments/assets/9f1a3481-83c0-4670-a813-bc82b8be9797)
