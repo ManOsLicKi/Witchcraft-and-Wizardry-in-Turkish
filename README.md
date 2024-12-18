@@ -1,1 +1,1 @@
-# Witchcraft-and-Wizardry-in-Turkish
+# Witchcraft and Wizardry in Turkish
